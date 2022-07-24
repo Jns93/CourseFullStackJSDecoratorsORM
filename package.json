@@ -1,0 +1,19 @@
+{
+  "name": "decorators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "pg": "^8.7.3",
+    "pg-promise": "^10.11.1"
+  },
+  "description": ""
+}
